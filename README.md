@@ -17,7 +17,7 @@
 [![Owner](https://top.gg/api/widget/owner/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
 
 <p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZiroWasTaken420&show_icons=true&include_all_commits=true&theme=material-palenight"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZiroCore&show_icons=true&include_all_commits=true&theme=material-palenight"/>
 </p>
 
 <h3 align="left">Tools:</h3>
