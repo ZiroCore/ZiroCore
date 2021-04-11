@@ -13,7 +13,6 @@
 [![Owner](https://top.gg/api/widget/owner/752242570532225064.svg)](https://top.gg/bot/752242570532225064)
 
 [![Status](https://top.gg/api/widget/status/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
-[![Servers](https://top.gg/api/widget/servers/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
 [![Upvotes](https://top.gg/api/widget/upvotes/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
 [![Owner](https://top.gg/api/widget/owner/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
 
