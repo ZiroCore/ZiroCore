@@ -26,6 +26,6 @@
 
 ### Websites
 [Ziro-Bot](http://www.zirobot.xyz/),
-[RAGE](http://ragebot.xyz/),
+[RAGE](http://ragebot.xyz/)
 
 ![Gif](https://i.imgur.com/ZzDn8k3.gif)
