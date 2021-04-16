@@ -7,7 +7,7 @@
 [Yupy](https://discord.com/oauth2/authorize?client_id=746714900604125222&scope=bot&permissions=8),
 [Crypto Stats](https://discord.com/oauth2/authorize?client_id=800649093470617601&permissions=379968&scope=bot)
 
-## Stats
+<h1 align='center'> Stats</h1>
 
 [![Status](https://top.gg/api/widget/status/752242570532225064.svg)](https://top.gg/bot/752242570532225064)
 [![Servers](https://top.gg/api/widget/servers/752242570532225064.svg)](https://top.gg/bot/752242570532225064)
