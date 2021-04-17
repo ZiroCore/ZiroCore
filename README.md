@@ -104,10 +104,10 @@
  <tbody>
    <tr>
      <td><a href="http://www.zirobot.xyz/"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
-                        src="https://cdn.discordapp.com/avatars/752242570532225064/bf1444188d0f01727cc0e05b2e6c5230.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/zirobot.png" /></a>
             </td>
      <td><a href="http://ragebot.xyz/"><img alt="RAGE" title="RAGE" height="28px"
-                        src="https://cdn.discordapp.com/attachments/805407285659959356/832912976779411467/circle.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/rage.png" /></a>
             </td>
    </tr>
   </tbody>
