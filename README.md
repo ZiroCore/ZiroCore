@@ -36,7 +36,7 @@
 <details align='center'>
   <summary>GitHub Visitors</summary>
   <br/>
-<table>
+<table align='center'>
 <tbody>
  <td>
  <a href="https://github.com/ZiroCore"><img alt="Github Visitors" title="Github Visitors"
