@@ -92,7 +92,7 @@
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/DZgetVv.png" /></a>
               <td><a href="https://atom.io"><img alt="Atom Editor" title="Atom" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/Atom_editor_logo.svg.png" /></a></td>
-            </td>
+            <!--</td>-->
         </tr>
         <tr>
             <td><a href="https://brave.com/"><img alt="Brave" title="Brave" height="28px"
