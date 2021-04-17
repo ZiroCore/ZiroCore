@@ -32,7 +32,7 @@
   <summary>GitHub Visitors</summary>
   <br/>
   <!--<a href="https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore" /></a>-->
- ![](https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore)
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore)
 </details>
 
 <details> 
