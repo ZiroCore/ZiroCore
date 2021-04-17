@@ -67,9 +67,6 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a></td>
   <td><a href="https://postman.co"><img alt="Postman" title="Postman" height="28px"
                         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a></td>
-            
-        </tr>
-    </tbody>
 </table>
 
 ## Websites
