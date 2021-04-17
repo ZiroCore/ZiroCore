@@ -123,3 +123,8 @@
    </tr>
   </tbody>
   </table>
+  
+  <details align='center'> 
+  <summary>Donate</summary>
+  <br/>
+  <a href="https://ko-fi.com/zirobot"><img alt="Donate" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2"/></a></details>
