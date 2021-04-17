@@ -41,7 +41,7 @@
 [![Upvotes](https://top.gg/api/widget/upvotes/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
 [![Owner](https://top.gg/api/widget/owner/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
 
-<h1 align='center'> Tools & Programs</h1>
+<h1 align='center'> Programming Languages & Programs</h1>
 
 <table>
     <tbody>
