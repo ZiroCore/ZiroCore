@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/anime_banner.gif" href='https://zirobot.xyz' style="display:block;margin-left:auto;margin-right:auto;"></img>
+<img src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/anime_banner.gif" href='https://zirobot.xyz' style="width:50;display:block;margin-left:auto;margin-right:auto;"></img>
 
 <h1 align='center'> Discord Bots</h1>
 <table align='center'>
