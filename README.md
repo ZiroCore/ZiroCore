@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ZzDn8k3.gif" href='https://zirobot.xyz'></img>
+<img src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/anime_banner.gif" href='https://zirobot.xyz'></img>
 
 <h1 align='center'> Bots</h1>
 <table align='center'>
