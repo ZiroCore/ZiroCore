@@ -81,10 +81,10 @@
              <a href="https://www.w3schools.com/css/"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/css.png" /></a>
             </td>
-            <td>
-             <a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/python.png" /></a>
-            </td>
+         <td>
+             <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" height="28px"
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/logo_markdownbric.png" /></a>
+         </td>
         </tr>
         <tr>
             <td>
@@ -92,8 +92,9 @@
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/nodejs.png" /></a>
             </td>
             <td>
-             <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/logo_markdownbric.png" /></a>
+             <a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/python.png" /></a>
+            </td>
              <td>
    <a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/express-original-wordmark.svg" /></a>
