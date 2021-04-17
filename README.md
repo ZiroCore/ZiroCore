@@ -36,7 +36,14 @@
 <details align='center'>
   <summary>GitHub Visitors</summary>
   <br/>
-  <a href="https://github.com/ZiroCore"><img alt="Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore" /></a>
+<table>
+<tbody>
+ <td>
+ <a href="https://github.com/ZiroCore"><img alt="Github Visitors" title="Github Visitors"
+                                            src="https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore" /></a>
+ </td>
+</tbody>
+</table>
 </details>
 <!---->
 <details align='center'>
