@@ -1,6 +1,6 @@
 ![Gif](https://i.imgur.com/ZzDn8k3.gif)
 
-## Bots
+<h1 align='center'> Bots</h1>
 <table>
  <tbody>
    <tr>
@@ -82,7 +82,7 @@
                         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a></td>
 </table>
 
-## Websites
+<h1 align='center'> Websites</h1>
 
 <table>
  <tbody>
