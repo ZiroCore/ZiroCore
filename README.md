@@ -70,39 +70,39 @@
     <tbody>
         <tr>
             <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/javascript.png" /></a>
             </td>
             <td><a href="https://www.w3schools.com/html/"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/html.png" /></a>
             </td>
             <td><a href="https://www.w3schools.com/css/"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/css.png" /></a>
             </td>
             <td><a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/python.png" /></a>
             </td>
         </tr>
         <tr>
             <td><a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/nodejs.png" /></a>
             </td>
             <td><a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/logo_markdownbric.png" /></a></td>
             <td><a href="https://github.com"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/DZgetVv.png" /></a>
               <td><a href="https://atom.io"><img alt="Atom Editor" title="Atom" height="28px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/1200px-Atom_editor_logo.svg.png" /></a></td>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/Atom_editor_logo.svg.png" /></a></td>
             </td>
         </tr>
         <tr>
             <td><a href="https://brave.com/"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/UfBWFbP.png" /></a></td>
   <td><a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></a></td>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/express-original-wordmark.svg" /></a></td>
             <td><a href="https://mongodb.com"><img alt="Mongodb" title="Mongo" height="28px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a></td>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/mongodb-original-wordmark.svg" /></a></td>
   <td><a href="https://postman.co"><img alt="Postman" title="Postman" height="28px"
-                        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a></td>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/getpostman-icon.svg" /></a></td>
 </table>
 
 <h1 align='center'> Websites</h1>
