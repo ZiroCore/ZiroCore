@@ -103,7 +103,7 @@
              <a href="https://mongodb.com"><img alt="Mongodb" title="Mongo" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/mongodb-original-wordmark.svg" /></a>
          </td>
-         </td>
+         <!--</td>-->
         </tr>
         <tr>
             <td>
