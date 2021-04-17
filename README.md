@@ -109,6 +109,10 @@
      <td><a href="http://ragebot.xyz/"><img alt="RAGE" title="RAGE" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/rage.png" /></a>
             </td>
+    </td>
+     <td><a href="http://www.yupy.shop/"><img alt="Yupy" title="Yupy" height="28px"
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/yupy.png" /></a>
+            </td>
    </tr>
   </tbody>
   </table>
