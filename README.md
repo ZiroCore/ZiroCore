@@ -28,12 +28,7 @@
   <a href="https://github.com/ZiroCore"><img alt="Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZiroCore&show_icons=true&include_all_commits=true&theme=material-palenight" /></a>
 </details>
 
-<details>
-  <summary>GitHub Visitors</summary>
-  <br/>
-  <!--<a href="https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore" /></a>-->
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore)
-</details>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore)
 
 <details> 
   <summary>Most Used Languages</summary>
