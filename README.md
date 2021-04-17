@@ -98,7 +98,7 @@
             <td><a href="https://brave.com/"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
   <td><a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></a></td>
+                        src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a></td>
             <td><a href="https://mongodb.com"><img alt="Mongodb" title="Mongo" height="28px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a></td>
   <td><a href="https://postman.co"><img alt="Postman" title="Postman" height="28px"
