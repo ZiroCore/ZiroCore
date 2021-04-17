@@ -103,7 +103,7 @@
 <table align='center'>
  <tbody>
    <tr>
-     <td><a href="http://www.zirobot.xyz/"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
+     <td><a href="http://zirobot.xyz/"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/zirobot.png" /></a>
             </td>
      <td><a href="http://ragebot.xyz/"><img alt="RAGE" title="RAGE" height="28px"
