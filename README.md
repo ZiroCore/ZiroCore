@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/ZzDn8k3.gif" align='center'></img>
 
 <h1 align='center'> Bots</h1>
-<table>
+<table align='center'>
  <tbody>
    <tr>
      <td><a href="https://discord.com/api/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
