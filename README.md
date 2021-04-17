@@ -33,13 +33,28 @@
   <br/>
   <a href="https://github.com/ZiroCore"><img alt="ZiroCore's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiroCore&langs_count=10&layout=compact#"/></a></details>
 
-[![Status](https://top.gg/api/widget/status/752242570532225064.svg)](https://top.gg/bot/752242570532225064)
-[![Servers](https://top.gg/api/widget/servers/752242570532225064.svg)](https://top.gg/bot/752242570532225064)
-[![Owner](https://top.gg/api/widget/owner/752242570532225064.svg)](https://top.gg/bot/752242570532225064)
-
-[![Status](https://top.gg/api/widget/status/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
-[![Upvotes](https://top.gg/api/widget/upvotes/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
-[![Owner](https://top.gg/api/widget/owner/800649093470617601.svg)](https://top.gg/bot/800649093470617601)
+<details>
+  <summary>Top.gg Stats</summary>
+  <br/>
+  <a href="https://top.gg/bot/752242570532225064">
+  <img src="https://top.gg/api/widget/status/752242570532225064.svg" alt="Ziro-Bot" />
+  </a>
+ <a href="https://top.gg/bot/752242570532225064">
+  <img src="https://top.gg/api/widget/servers/752242570532225064.svg" alt="Ziro-Bot" />
+  </a>
+ <a href="https://top.gg/bot/752242570532225064">
+  <img src="https://top.gg/api/widget/owner/752242570532225064.svg" alt="Ziro-Bot" />
+  </a>
+ <a href="https://top.gg/bot/800649093470617601">
+  <img src="https://top.gg/api/widget/status/800649093470617601.svg" alt="Crypto Stats" />
+  </a>
+ <a href="https://top.gg/bot/800649093470617601">
+  <img src="https://top.gg/api/widget/upvotes/800649093470617601.svg" alt="Crypto Stats" />
+  </a>
+ <a href="https://top.gg/bot/800649093470617601">
+  <img src="https://top.gg/api/widget/owner/800649093470617601.svg" alt="Crypto Stats" />
+  </a>
+</details>
 
 <h1 align='center'> Programming Languages & Programs</h1>
 
