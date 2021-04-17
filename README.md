@@ -35,8 +35,6 @@
   <a href="https://github.com/ZiroCore"><img alt="Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore" /></a>
 </details>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore)
-
 <details> 
   <summary>Most Used Languages</summary>
   <br/>
