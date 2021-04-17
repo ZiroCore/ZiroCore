@@ -5,16 +5,16 @@
  <tbody>
    <tr>
      <td><a href="https://discord.com/api/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
-                        src="https://cdn.discordapp.com/avatars/752242570532225064/bf1444188d0f01727cc0e05b2e6c5230.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/zirobot.png" /></a>
             </td>
      <td><a href="https://discord.com/oauth2/authorize?client_id=800649093470617601&permissions=379968&scope=bot"><img alt="Crypto Stats" title="Crypto Stats" height="28px"
-                        src="https://cdn.discordapp.com/attachments/805407285659959356/832912959981748234/circle.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/crypto.png" /></a>
             </td>
      <td><a href="https://discord.com/api/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot"><img alt="RAGE" title="RAGE" height="28px"
-                        src="https://cdn.discordapp.com/attachments/805407285659959356/832912976779411467/circle.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/rage.png" /></a>
             </td>
      <td><a href="https://discord.com/oauth2/authorize?client_id=746714900604125222&scope=bot&permissions=8"><img alt="Yupy" title="Yupy" height="28px"
-                        src="https://cdn.discordapp.com/attachments/805407285659959356/832913008757309470/circle.png" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/yupy.png" /></a>
             </td>
    </tr>
   </tbody>
