@@ -61,28 +61,28 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+            <td><a href="https://www.w3schools.com/html/"><img alt="HTML5" title="HTML5" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
             </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+            <td><a href="https://www.w3schools.com/css/"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
+            <td><a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+            <td><a href="http://nodejs.org/"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
+            <td><a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+            <td><a href="https://github.com"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
-              <td><a href="#"><img alt="Atom Editor" title="Atom" height="28px"
+              <td><a href="https://atom.io"><img alt="Atom Editor" title="Atom" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/1200px-Atom_editor_logo.svg.png" /></a></td>
             </td>
         </tr>
