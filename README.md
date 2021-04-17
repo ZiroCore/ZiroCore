@@ -76,7 +76,7 @@
             </td>
         </tr>
         <tr>
-            <td><a href="http://nodejs.org/"><img alt="NodeJS" title="NodeJS" height="28px"
+            <td><a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
             <td><a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" height="28px"
@@ -88,7 +88,7 @@
             </td>
         </tr>
         <tr>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
+            <td><a href="https://brave.com/"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
   <td><a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></a></td>
