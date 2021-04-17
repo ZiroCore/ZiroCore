@@ -45,6 +45,7 @@
  <a href="https://top.gg/bot/752242570532225064">
   <img src="https://top.gg/api/widget/owner/752242570532225064.svg" alt="Ziro-Bot" />
   </a>
+ <p></p>
  <a href="https://top.gg/bot/800649093470617601">
   <img src="https://top.gg/api/widget/status/800649093470617601.svg" alt="Crypto Stats" />
   </a>
