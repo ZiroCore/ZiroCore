@@ -25,7 +25,7 @@
 <details align='center'>
   <summary>GitHub Stats</summary>
   <br/>
-  <a href="https://github.com/ZiroCore"><img alt="Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZiroCore&show_icons=true&include_all_commits=true&theme=material-palenight" /></a>
+  <a href="https://github.com/ZiroCore"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZiroCore&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
 </details>
 
 
@@ -38,7 +38,7 @@
 <details align='center'> 
   <summary>Most Used Languages</summary>
   <br/>
-  <a href="https://github.com/ZiroCore"><img alt="ZiroCore's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiroCore&langs_count=10&layout=compact#"/></a></details>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiroCore&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f"/></a></details>
 
 <details align='center'>
   <summary>Top.gg Stats</summary>
