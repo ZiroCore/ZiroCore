@@ -39,7 +39,7 @@
   <summary>Most Used Languages</summary>
   <br/>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiroCore&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f"/></a></details>
-
+<!---->
 <details align='center'>
   <summary>Top.gg Stats</summary>
   <br/>
