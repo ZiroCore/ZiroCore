@@ -54,23 +54,20 @@
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
+              <td><a href="#"><img alt="Atom Editor" title="Atom" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/1200px-Atom_editor_logo.svg.png" /></a></td>
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="Atom Editor" title="Atom" height="28px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/1200px-Atom_editor_logo.svg.png" /></a></td>
             <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-        </tr>
-      <tr>
-            <td><a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
+  <td><a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></a></td>
             <td><a href="https://mongodb.com"><img alt="Mongodb" title="Mongo" height="28px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a></td>
-        </tr>
-      <tr>
-            <td><a href="https://postman.co"><img alt="Postman" title="Postman" height="28px"
+  <td><a href="https://postman.co"><img alt="Postman" title="Postman" height="28px"
                         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a></td>
+            
         </tr>
     </tbody>
 </table>
