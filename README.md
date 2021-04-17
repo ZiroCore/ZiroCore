@@ -94,29 +94,28 @@
             <td>
              <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/logo_markdownbric.png" /></a>
-         </td>
-            <td>
-             <a href="https://github.com"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/DZgetVv.png" /></a>
-         </td>
-              <td>
-               <a href="https://atom.io"><img alt="Atom Editor" title="Atom" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/Atom_editor_logo.svg.png" /></a>
-         </td>
-            <!--</td>-->
-        </tr>
-        <tr>
-            <td>
-             <a href="https://brave.com/"><img alt="Brave" title="Brave" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/UfBWFbP.png" /></a>
-         </td>
-  <td>
+             <td>
    <a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/express-original-wordmark.svg" /></a>
          </td>
             <td>
              <a href="https://mongodb.com"><img alt="Mongodb" title="Mongo" height="28px"
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/mongodb-original-wordmark.svg" /></a>
+         </td>
+         </td>
+        </tr>
+        <tr>
+            <td>
+             <a href="https://brave.com/"><img alt="Brave" title="Brave" height="28px"
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/UfBWFbP.png" /></a>
+         </td>
+         <td>
+             <a href="https://github.com"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/DZgetVv.png" /></a>
+         </td>
+              <td>
+               <a href="https://atom.io"><img alt="Atom Editor" title="Atom" height="28px"
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/Atom_editor_logo.svg.png" /></a>
          </td>
   <td>
    <a href="https://postman.co"><img alt="Postman" title="Postman" height="28px"
