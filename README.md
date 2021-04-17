@@ -1,4 +1,4 @@
-![Gif](https://i.imgur.com/ZzDn8k3.gif)
+<img src="https://i.imgur.com/ZzDn8k3.gif" align='center'></img>
 
 <h1 align='center'> Bots</h1>
 <table>
