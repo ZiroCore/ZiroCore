@@ -22,25 +22,25 @@
 
 <h1 align='center'> Stats</h1>
 
-<details>
+<details align='center'>
   <summary>GitHub Stats</summary>
   <br/>
   <a href="https://github.com/ZiroCore"><img alt="Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZiroCore&show_icons=true&include_all_commits=true&theme=material-palenight" /></a>
 </details>
 
 
-<details>
+<details align='center'>
   <summary>GitHub Visitors</summary>
   <br/>
   <a href="https://github.com/ZiroCore"><img alt="Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore" /></a>
 </details>
 
-<details> 
+<details align='center'> 
   <summary>Most Used Languages</summary>
   <br/>
   <a href="https://github.com/ZiroCore"><img alt="ZiroCore's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiroCore&langs_count=10&layout=compact#"/></a></details>
 
-<details>
+<details align='center'>
   <summary>Top.gg Stats</summary>
   <br/>
   <a href="https://top.gg/bot/752242570532225064">
