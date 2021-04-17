@@ -96,12 +96,12 @@
                         src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/python.png" /></a>
             </td>
              <td>
-   <a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/express-original-wordmark.svg" /></a>
+                 <a href="https://expressjs.com"><img alt="Express.js" title="Express" height="28px" 
+                                                      src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/express-original-wordmark.svg" /></a>
          </td>
             <td>
              <a href="https://mongodb.com"><img alt="Mongodb" title="Mongo" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/mongodb-original-wordmark.svg" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/mongodb-original-wordmark.svg" /></a>
          </td>
          <!--</td>-->
         </tr>
@@ -120,7 +120,7 @@
          </td>
   <td>
    <a href="https://postman.co"><img alt="Postman" title="Postman" height="28px"
-                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/2537847ad18beb9fbd4ff574cf542edfdb41e861/Images/getpostman-icon.svg" /></a>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/getpostman-icon.svg" /></a>
          </td>
 </table>
 
