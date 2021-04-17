@@ -1,4 +1,12 @@
-<img src="https://i.imgur.com/ZzDn8k3.gif" href='https://zirobot.xyz' align='center' display='block' margin-left='auto' margin-right='auto'></img>
+<img src="https://i.imgur.com/ZzDn8k3.gif" href='https://zirobot.xyz'></img>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 <h1 align='center'> Bots</h1>
 <table align='center'>
