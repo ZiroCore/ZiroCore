@@ -87,7 +87,7 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
             <td><a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
+                        src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/logo_markdownbric.png" /></a></td>
             <td><a href="https://github.com"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
               <td><a href="https://atom.io"><img alt="Atom Editor" title="Atom" height="28px"
