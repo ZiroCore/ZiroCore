@@ -58,7 +58,7 @@
 
 <h1 align='center'> Programming Languages & Programs</h1>
 
-<table>
+<table align='center'>
     <tbody>
         <tr>
             <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" height="28px"
@@ -99,7 +99,7 @@
 
 <h1 align='center'> Websites</h1>
 
-<table>
+<table align='center'>
  <tbody>
    <tr>
      <td><a href="http://www.zirobot.xyz/"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
