@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ZiroCore/ZiroCore/main/Images/anime_banner.gif" href='https://zirobot.xyz'></img>
 
-<h1 align='center'> Bots</h1>
+<h1 align='center'> Discord Bots</h1>
 <table align='center'>
  <tbody>
    <tr>
@@ -57,7 +57,7 @@
   </a>
 </details>
 
-<h1 align='center'> Programming Languages & Programs</h1>
+<h1 align='center'> Tools, Frameworks & Programs</h1>
 
 <table align='center'>
     <tbody>
