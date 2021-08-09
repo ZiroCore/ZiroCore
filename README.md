@@ -37,6 +37,7 @@
   <summary>GitHub Visitors</summary>
   <br/>
 <a href="https://github.com/ZiroCore"><img alt="Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=ZiroCore.ZiroCore" /></a>
+<p></p>
 <a href="https://github.com/ZiroCore"><img alt="Github Visitors" src="https://githubviews.tolfix.com/?id=ZiroCore&color=blue&style=plastic&label=ZiroCore%27s+Views" /></a>
 </details>
 <!--<a href=""><img alt="" src="" /></a>-->
